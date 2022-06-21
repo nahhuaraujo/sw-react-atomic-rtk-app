@@ -1,0 +1,25 @@
+ol {
+  margin: 0;
+  color: white;
+  padding: 0;
+  list-style: none;
+}
+
+li {
+  margin: 0.5rem;
+  border: 1px solid rgb(255, 232, 31);
+}
+
+
+.data {
+  display: flex;
+  justify-content: center;
+  
+  li {
+    padding: 1rem;
+  }
+}
+
+.spinner {
+  margin: 4rem auto 0 auto;
+}
